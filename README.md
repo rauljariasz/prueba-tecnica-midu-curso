@@ -1,7 +1,7 @@
 <h1 align="center">Prueba técnica para Juniors y Trainees - miduCurso</h1>
 <div align="center">
   
-![](https://img.shields.io/static/v1?label=Stado&message=En proceso&color=blue)
+![](https://img.shields.io/static/v1?label=Estado&message=En%20proceso&color=blue)
   <br>
 
  Este proyecto lo realizo con el fin de reforzar y mejorar los conocimientos de React, además de que el curso es realizado por un creador de contenido excelente, con una pedagogía muy elevada. [Aca puedes mirar el repositorio del curso.](https://github.com/midudev/aprendiendo-react).
@@ -13,7 +13,9 @@
   - Muestra una imagen de un gato con la primera palabra.
 
   APIs:
+  <br>
   Facts Random: https://catfact.ninja/fact
+  <br>
   Imagen random: https://cataas.com/cat/says/hello
   
   
